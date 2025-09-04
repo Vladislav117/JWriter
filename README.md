@@ -1,6 +1,7 @@
-# JavaLibraryTemplate
+# JWriter
 
-JavaLibraryTemplate - шаблон java-библиотеки.
+JWriter - генератор java-кода.
+Основное предназначение - генерация классов с множеством идентичных методов.
 
 ## Добавление зависимости
 
@@ -12,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Vladislav117:JavaLibraryTemplate:0.0.0'
+    implementation 'com.github.Vladislav117:JWriter:0.0.0'
 }
 ```
 
@@ -24,7 +25,7 @@ dependencies {
 
 ## Документация
 
-Документация представлена в исходном коде (javadoc).
+Написание документации не входит в список основных задач, так как проект является вспомогательным, а не основным.
 
 ## Использование
 
